@@ -1111,6 +1111,10 @@ video {
   background-image: url('../images/demo2-bg_newsletter.png');
 }
 
+.bg-\[url\(\'images\/demo2-slider1\.jpg\'\)\] {
+  background-image: url('images/demo2-slider1.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
