@@ -1115,6 +1115,58 @@ video {
   background-image: url('images/demo2-slider1.jpg');
 }
 
+.bg-\[url\(\'images\/demo2-slider3\.jpg\'\)\] {
+  background-image: url('images/demo2-slider3.jpg');
+}
+
+.bg-\[url\(\'images\/demo2-MEN\.jpg\'\)\] {
+  background-image: url('images/demo2-MEN.jpg');
+}
+
+.bg-\[url\(\'images\/jpg1\.jpg\'\)\] {
+  background-image: url('images/jpg1.jpg');
+}
+
+.bg-\[url\(\'images\/jpg3\.jpg\'\)\] {
+  background-image: url('images/jpg3.jpg');
+}
+
+.bg-\[url\(\'images\/jpg5\.jpg\'\)\] {
+  background-image: url('images/jpg5.jpg');
+}
+
+.bg-\[url\(\'images\/jpg7\.jpg\'\)\] {
+  background-image: url('images/jpg7.jpg');
+}
+
+.bg-\[url\(\'images\/jpg9\.jpg\'\)\] {
+  background-image: url('images/jpg9.jpg');
+}
+
+.bg-\[url\(\'images\/jpg11\.jpg\'\)\] {
+  background-image: url('images/jpg11.jpg');
+}
+
+.bg-\[url\(\'images\/jpg13\.jpg\'\)\] {
+  background-image: url('images/jpg13.jpg');
+}
+
+.bg-\[url\(\'images\/jpg15\.jpg\'\)\] {
+  background-image: url('images/jpg15.jpg');
+}
+
+.bg-\[url\(\'images\/demo2-bg_testi\.jpg\'\)\] {
+  background-image: url('images/demo2-bg_testi.jpg');
+}
+
+.bg-\[url\(\'\.\.images\/demo2-bg2\.jpg\'\)\] {
+  background-image: url('..images/demo2-bg2.jpg');
+}
+
+.bg-\[url\(\'\.\.images\/demo2-bg_newsletter\.png\'\)\] {
+  background-image: url('..images/demo2-bg_newsletter.png');
+}
+
 .bg-cover {
   background-size: cover;
 }
@@ -1548,6 +1600,38 @@ video {
 
 .group:hover .group-hover\:bg-\[url\(\'\/images\/jpg16\.jpg\'\)\] {
   background-image: url('/images/jpg16.jpg');
+}
+
+.group:hover .group-hover\:bg-\[url\(\'images\/jpg2\.jpg\'\)\] {
+  background-image: url('images/jpg2.jpg');
+}
+
+.group:hover .group-hover\:bg-\[url\(\'images\/jpg4\.jpg\'\)\] {
+  background-image: url('images/jpg4.jpg');
+}
+
+.group:hover .group-hover\:bg-\[url\(\'images\/jpg6\.jpg\'\)\] {
+  background-image: url('images/jpg6.jpg');
+}
+
+.group:hover .group-hover\:bg-\[url\(\'images\/jpg8\.jpg\'\)\] {
+  background-image: url('images/jpg8.jpg');
+}
+
+.group:hover .group-hover\:bg-\[url\(\'images\/jpg10\.jpg\'\)\] {
+  background-image: url('images/jpg10.jpg');
+}
+
+.group:hover .group-hover\:bg-\[url\(\'images\/jpg12\.jpg\'\)\] {
+  background-image: url('images/jpg12.jpg');
+}
+
+.group:hover .group-hover\:bg-\[url\(\'images\/jpg14\.jpg\'\)\] {
+  background-image: url('images/jpg14.jpg');
+}
+
+.group:hover .group-hover\:bg-\[url\(\'images\/jpg16\.jpg\'\)\] {
+  background-image: url('images/jpg16.jpg');
 }
 
 @media (prefers-color-scheme: dark) {
