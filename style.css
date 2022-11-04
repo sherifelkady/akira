@@ -1167,6 +1167,14 @@ video {
   background-image: url('..images/demo2-bg_newsletter.png');
 }
 
+.bg-\[url\(\'images\/demo2-bg2\.jpg\'\)\] {
+  background-image: url('images/demo2-bg2.jpg');
+}
+
+.bg-\[url\(\'images\/demo2-bg_newsletter\.png\'\)\] {
+  background-image: url('images/demo2-bg_newsletter.png');
+}
+
 .bg-cover {
   background-size: cover;
 }
