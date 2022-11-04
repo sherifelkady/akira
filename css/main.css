@@ -1,0 +1,68 @@
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+/* Navbar */
+nav a {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+/* Drop down */
+#dropdown {
+  visibility: hidden;
+  margin-top: 10px;
+  opacity: 0;
+  transition: all 0.4s;
+  z-index: 999;
+}
+
+.have-children:hover #dropdown {
+  visibility: visible;
+  margin-top: 4px !important;
+  opacity: 1;
+}
+
+/* Slider */
+#slider .swiper-slide {
+  height: 500px;
+}
+
+/* Collections */
+
+.collections .swiper-slide .cover {
+  height: 340px;
+  width: 277px;
+}
+
+#collections .swiper-pagination-bullet-active {
+  background-color: var(--color-primary);
+}
+
+.swiper:hover .swiper-arrows {
+  display: block;
+}
+
+.first-side
+  div:not(img):not(.lang-dropdown):not(.currency-toggle):not(.currency-dropdown) {
+  height: 100%;
+  align-items: center;
+}
+/* Burger Menu */
+.burger-menu-open {
+  left: 0;
+}
+.dropdown-open {
+  visibility: visible;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 1150px) {
+  .top-bar {
+    display: none;
+  }
+}
+
+/* @media screen and (min-width: 200px) and (max-width:) */
